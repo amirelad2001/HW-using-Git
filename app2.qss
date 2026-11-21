@@ -24,11 +24,11 @@ QPushButton#loadButton {
 }
 
 QPushButton#loadButton:hover {
-    background-color: #1d4ed8;
+    background-color: #afd126;
 }
 
 QPushButton#loadButton:pressed {
-    background-color: #1e40af;
+    background-color: #bfb725;
 }
 
 QTableWidget#dataTable {
